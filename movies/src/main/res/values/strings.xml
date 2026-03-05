@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_genre_name">All</string>
+
+    <string name="sorting_movies_section">Sort by</string>
+    <string name="available_genres_section">Available genres</string>
+
+    <string name="movies_list_empty_state">No movies found</string>
+
+    <string name="movie_details_overview_title">Overview</string>
+    <string name="movie_details_budget">Budget</string>
+    <string name="movie_details_revenue">Revenue</string>
+
+    <string name="error_message_generic">Something went wrong</string>
+    <string name="retry_button">Try again</string>
+</resources>
